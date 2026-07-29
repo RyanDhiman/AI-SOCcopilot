@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": "2026-07-27 09:12:10",
+        "service": "sshd",
+        "user": "root",
+        "ip": "192.168.1.40",
+        "status": "Failed Login"
+    },
+    {
+        "timestamp": "2026-07-27 09:18:25",
+        "service": "sshd",
+        "user": "ryan",
+        "ip": "192.168.1.10",
+        "status": "Login Success"
+    },
+    {
+        "timestamp": "2026-07-27 09:40:11",
+        "service": "sudo",
+        "user": "john",
+        "ip": "localhost",
+        "status": "Privilege Escalation"
+    },
+    {
+        "timestamp": "2026-07-27 10:05:17",
+        "service": "sshd",
+        "user": "guest",
+        "ip": "192.168.1.75",
+        "status": "Failed Login"
+    }
+]
